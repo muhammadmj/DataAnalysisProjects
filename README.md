@@ -1,2 +1,2 @@
 # DataAnalysisProjects
-Data Analysis with Python Projects by freeCodeCamp.
+It consists of five projects that build a good foundational knowledge of data analysis with Python.
